@@ -1,2 +1,2 @@
-# agricultural_predictions
-How to target Agricultural Policy effectively
+# Capstone Project - General Assembly Data Science Immersive
+The purpose of this capstone project is to help increase the efficiency with which we can target agricultural policy across the world. The main reason for this analysis is to see if we can flip the global south and global north narrative on its head with resepect to food production. This is a framework that we use currently and try to impact the way by which agricultural policy is carried out across the planet. 
