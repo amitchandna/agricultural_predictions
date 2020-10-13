@@ -15,4 +15,8 @@ This package was used to help inform the EDA process and help to ensure that a p
 # Pipeline Creation
 As the data needed to be scaled, and then further analysed, pipelines were created that could carry out this task and then a gridsearch was carried out to determine the best parameters for these models. Using these best parameters, the most effective model at predicting whether or not a country is an importer or exporter of agricultural goods based on multiple proxy indicators. 
 
+# Results
+
+Essentially what has been created here is a model that reclassifies countries based on whether or not they are importing or exporting food using proxy indicators and does so quite accurately. The model that has been created classifies a country with 94% accuracy. This model can be subsequently used to work towrads creating a better idea of which countries should be help accountable for imports and exports as it relates to agricultural products as net importers should likely pay a higher carbon tax than those that are net exporters as the net importing countries are more reliant on the global system to feed themselves. This is the cornerstone of any countries success and should be treated as such. 
+
 
