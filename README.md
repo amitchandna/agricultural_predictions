@@ -9,27 +9,28 @@ The compulsory packages for this to work are as follows:
 * Seaborn 
 * Pandas_Profiling(Not necessary but really nice to have)
 * NumPy
-* sklearn with each of the following packages
-- confusion_matrix
-- make_classification
-- RandomForestClassfier 
-- BaggingClassifier
-- GradientBoostingClassifier
-- AdaBoostClassifer
-- LogisticRegression
-- mean_squared_error
-- r2_score_accuracy_score
-- cross_val_score
-- train_test_split
-- GridSearchCV
-- KFold
-- KNeighborsClassifer
-- Pipeline
-- make_pipeline
-- StandardScaler
-- SVC
-- DecisionTreeClassifier
 * Pickle
+* sklearn with each of the following packages
+  - confusion_matrix
+  - make_classification
+  - RandomForestClassfier 
+  - BaggingClassifier
+  - GradientBoostingClassifier
+  - AdaBoostClassifer
+  - LogisticRegression
+  - mean_squared_error
+  - r2_score_accuracy_score
+  - cross_val_score
+  - train_test_split
+  - GridSearchCV
+  - KFold
+  - KNeighborsClassifer
+  - Pipeline
+  - make_pipeline
+  - StandardScaler
+  - SVC
+  - DecisionTreeClassifier
+
 
 ## The Dataset
 
