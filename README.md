@@ -6,7 +6,8 @@
 
   The goal of this project was to create a model that can determine whether or not the strength of a countries agricultural sector could be predicted based on proxy indicators. These proxy indicators can then demonstrate whether or not our classification of a country as a developed or developing country has any real weight when it comes to how policy is outrolled. This project has demonstrated that a countries agricultural success is not related to whether or not it is a developed or developing country and can be predicted based on other indicators such as greenhouse gas emmissions from the agricultural sector.
   
-##[The Data Set](http://www.fao.org/faostat/en/#home) - Navigate to the bulk data download
+## [The Data Set](http://www.fao.org/faostat/en/#home) - Navigate to the bulk data download
+## [The Code](https://github.com/amitchandna/agricultural_predictions/blob/main/Agricultural_Policy.ipynb)
 
 ## Packages to install
 The compulsory packages for this to work are as follows:
